@@ -86,22 +86,22 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=BashScriptHub&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api?username=Omxpro&title_color=91f2a2&icon_color=fcfcaa&text_color=85f5fa&bg_color=222835&show_icons=true"
     alt="BashScriptHub" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BashScriptHub&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Omxpro&title_color=91f2a2&icon_color=fcfcaa&text_color=85f5fa&bg_color=222835&show_icons=true"
     alt="BashScriptHub" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BashScriptHub&" alt="BashScriptHub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omxpro" alt="BashScriptHub" /></p>
 
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=BashScriptHub" alt="BashScriptHub" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=Omxpro" alt="BashScriptHub" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
